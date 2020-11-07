@@ -14,6 +14,7 @@ body {
 }
 a {
 	background-color: #732379;
+	height: 1px;
 }
 #banner {
 	font-family: 'Jua', sans-serif;
@@ -40,16 +41,20 @@ a {
 	background-color: #732379;
 	border : none;
 }
+.post{
+	background-color: #732379;
+}
 .post-wrapper{
 	background-color: #732379;
 	height: 250px;
 	display: table-cell;
     vertical-align: middle;
     text-align: center;
-	margin: 0px auto;
+	margin: 0px auto;	
+	padding: 0px 5px;
 }
 #post1{
-	padding: 15px 15px 0px 15px;
+	padding: 0px 15px 0px 15px;
 	background-color: #732379;
 	font-size: 100px;
 	height: 100px;
@@ -64,6 +69,7 @@ a {
 	margin: 0px auto;
 }
 #post3{
+	padding: 0px 15px;
 	background-color: #732379;
 	font-size: 40px;	
 	color: white; 
@@ -77,7 +83,7 @@ a {
 	margin: 0px auto;
 }
 #answer {
-	padding: 50px 25px 100px 25px;
+	padding: 50px 25px 120px 25px;
 	text-align: center;
 	background-color: #732379;
 }
