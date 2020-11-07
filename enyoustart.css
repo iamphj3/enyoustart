@@ -21,12 +21,11 @@ a {
 	color: white;
 	text-align: center;
 	width: 400px;
-	margin: 5px auto;
+	margin: 0px auto;
 	padding: 100px 10px 10px 10px;
 	background-color: #732379;
 	border : none;
 	padding-bottom: 10px;
-	margin-top: 10px;
 }
 
 #question {
