@@ -4,12 +4,12 @@ html{
 * {
 	margin: 0;
 	padding: 0; 
-	background-color: white;
+	background-color:#90268f;
 }
 
 body { 
 	margin: 0 auto;
-	width : 410px;
+	/*width : 410px;*/
 	background-color: #90268f;
 }
 a {
