@@ -1,15 +1,20 @@
+html, body {
+overflow-x: hidden;
+max-width: 100%;
+}
+
 html{
 	scroll-behavior: smooth;
 }
 * {
 	margin: 0;
 	padding: 0; 
-	background-color:#90268f;
+	background-color: white;
 }
 
 body { 
 	margin: 0 auto;
-	/*width : 410px;*/
+	width : 410px;
 	background-color: #90268f;
 }
 a {
